@@ -24,10 +24,8 @@ WITH DuplicateRecords AS (
     
 SELECT *
 FROM DuplicateRecords
--- WHERE row_num > 1  -- Filters out the first occurrence (row_num = 1) and only shows the duplicates (row_num > 1)
+WHERE row_num > 1  -- Filters out the first occurrence (row_num = 1) and only shows the duplicates (row_num > 1)
 ORDER BY JourneyID
-
-
 
 
 -- Outer query selects the final cleaned and standardized data
@@ -61,3 +59,4 @@ FROM
     ) AS subquery  -- Names the subquery for reference in the outer query
 WHERE 
     row_num = 1;  -- Keeps only the first occurrence of each duplicate group identified in the subquery
+
