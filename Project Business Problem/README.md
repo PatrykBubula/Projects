@@ -10,8 +10,8 @@ TestShop, an online retail business, is facing reduced customer engagement and c
 ### Key Performance Indicators (KPI)
 - **Conversion Rate**: Percentage of website visitors who make a purchase.
 - **Customer Engagement Rate**: Level of interaction with marketing content (clicks, likes, comments).
--- **Average Order Value (AOV)**: Average amount spent by a customer per transaction.
--- **Customer Feedback Score**: Average rating from customer reviews. 
+- **Average Order Value (AOV)**: Average amount spent by a customer per transaction.
+- **Customer Feedback Score**: Average rating from customer reviews. 
 
 ### Data Sources & Tables
 - **Customer Journey Table**: Track customer movements through the website to analyze the conversion funnel/
@@ -23,12 +23,12 @@ TestShop, an online retail business, is facing reduced customer engagement and c
 
 ### Goals
 - **Increase Conversion Rates**:
-    -- **Goal**: Identify factors impacting the conversion rate and provide recommendations to improve it.
-    -- **Insight**: Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.
+    * **Goal**: Identify factors impacting the conversion rate and provide recommendations to improve it.
+    * **Insight**: Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.
 - **Enhance Customer Engagement**:
-    -- **Goal**: Determine which types of content drive the highest engagement.
-    -- **Insight**: Analyze interaction levels with different types of marketing content to inform better content strategies.
+    * **Goal**: Determine which types of content drive the highest engagement.
+    * **Insight**: Analyze interaction levels with different types of marketing content to inform better content strategies.
 - **Improve Customer Feedback Scores**:
-    -- **Goal**: Understand common themes in customer reviews and provide actionable insights.
-    -- **Insight**: Identify recurring positive and negative feedback to guide product and service improvements.
+    * **Goal**: Understand common themes in customer reviews and provide actionable insights.
+    * **Insight**: Identify recurring positive and negative feedback to guide product and service improvements.
 
